@@ -1,4 +1,3 @@
-# BLENDED LEARNING
 # EXP-09 Implementation of Customer Segmentation Using K-Means Clustering
 
 ## AIM:
